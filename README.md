@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nischal4848
-- 👀 I’m interested in data science,data analytics,machine learning
-- 🌱 I’m currently learning data science,data analytics,machine learning
+- 👀 I’m interested in Data Science,Data Analytics,Machine learning
+- 🌱 I’m currently learning Data Science,Data analytics,Machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nischaldhakal36@gmail.com
 
